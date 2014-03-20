@@ -1,0 +1,2 @@
+-module(users_view).
+-erlyweb_magic(erlyweb_view).
